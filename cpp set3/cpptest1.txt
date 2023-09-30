@@ -1,0 +1,28 @@
+Q1. a.Write a cpp program to count the number of digits in number..
+
+    b.Reverse a number in cpp
+
+Q2. a.Show the invocation of the constructors and destructors in multiple inheritance.
+    b.count the number of constructors getting called.
+    c.display the parameterized constructor.
+    d.write the example of default copy constructor
+    e.
+    f.write the program for array of objects.
+
+
+SET4
+
+1)Declare a user define class string, having data members int length and pointer of char array.
+Do the following tasks:-
+   1) default constructor
+   2)paramaterized constructor
+   3)overload paramaterized constructor(one with int, second with both parameters)
+   4) Copy Constructor
+   5) Destructor
+and also do all operations using acceptString() and displayString() functions.
+
+2)Do the following operations using userdefined functions. Do not use <string.h>
+   1) String Length
+   2) String Concatenate
+   3) String Copy
+   4) create pointer of array of characters.
